@@ -1,7 +1,9 @@
 # my-portfolio
 
 Welcome to my personal website! I am a Computer Science student passionate about coding, problem-solving and building projects that blend creativity with technical skills.
-Link: https://zainakaurr.github.io/my-portfolio/
+
+
+#Link: https://zainakaurr.github.io/my-portfolio/
 
 ## Features
 - Responsive design using HTML and CSS techniques
